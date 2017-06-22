@@ -1,5 +1,5 @@
 ### "Fundamentals Of Programming Languages" course lab exercises
 
-Lab exercises in Haskell and Prolog Languages
+__Lab exercises in **Haskell** and **Prolog** Languages__
 
 (exercises instructions in pdf files (in greek))
